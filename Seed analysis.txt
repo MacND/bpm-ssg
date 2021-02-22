@@ -1,0 +1,37 @@
+FloorModifierFloats:
+0 - Normal
+1 - Dark
+2 - Dark
+3 - Dark 
+4 - Dark
+5 - Space
+6 - Space
+7 - Space
+8 - Space
+9 - Glass
+10 - Glass
+11 - Frozen
+12 - Frozen
+13 - Castle
+14 - Castle
+15 - Castle
+16 - Castle
+17 - Explosive
+18 - Explosive
+19 - Midas
+20 - Midas
+21 - Barren
+22 - Barren
+23 - Infested
+24 - Infested
+25 - Infested
+26 - Shopless
+27 - Normal
+28 - Normal
+29 - Normal
+30 - Normal
+31 - Normal
+32 - 
+33
+
+# Missing Pitted, Inverted, Retro, Bountiful
