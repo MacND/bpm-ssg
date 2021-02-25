@@ -1,0 +1,22 @@
+{
+  "name": "bpm-ssg",
+  "version": "1.0.0",
+  "description": "BPM Seeded Save Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacND/bpm-ssg.git"
+  },
+  "author": "MacND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacND/bpm-ssg/issues"
+  },
+  "homepage": "https://github.com/MacND/bpm-ssg#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
