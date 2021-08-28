@@ -2,366 +2,366 @@
   {
     "name": "Arm/Arm_ItemMedallion.Arm_ItemMedallion_C",
     "float": "1.0",
-		"inGameName": "Megingjord"
-},
+    "inGameName": "Megingjord"
+  },
   {
     "name": "Foot/Boots_ItemBonusSpeedAfterFire.Boots_ItemBonusSpeedAfterFire_C",
     "float": "1.0",
-		"inGameName": "Tumbler's Boots"
-},
+    "inGameName": "Tumbler's Boots"
+  },
   {
     "name": "Upgrades/BP_SkeletonKey.BP_SkeletonKey_C",
     "float": "1.0",
-		"inGameName": "Skeleton Key"
-},
+    "inGameName": "Skeleton Key"
+  },
   {
     "name": "Arm/Arm_ItemPenetratingShots.Arm_ItemPenetratingShots_C",
     "float": "1.0",
-		"inGameName": "Sigrdrifa's Brace"
-},
+    "inGameName": "Sigrdrifa's Bracer"
+  },
   {
     "name": "Upgrades/BP_ItemCriticalUp.BP_ItemCriticalUp_C",
     "float": "1.0",
-		"inGameName": "Precision Up"
-},
+    "inGameName": "Precision Up"
+  },
   {
     "name": "Head/Head_ItemReflectDamage.Head_ItemReflectDamage_C",
     "float": "1.0",
-		"inGameName": "Equity"
-},
+    "inGameName": "Equity"
+  },
   {
     "name": "Head/Head_ItemDeadeye.Head_ItemDeadeye_C",
     "float": "1.0",
-		"inGameName": "Deadeye Lens"
-},
+    "inGameName": "Deadeye Lens"
+  },
   {
     "name": "Head/Head_ItemExplodingShots.Head_ItemExplodingShots_C",
     "float": "0.800000011920929",
-		"inGameName": "Horned Shot"
-},
+    "inGameName": "Horned Shot"
+  },
   {
     "name": "Arm/Arm_ItemMultiCleavingAttacks.Arm_ItemMultiCleavingAttacks_C",
     "float": "1.0",
-		"inGameName": "Memento Mori"
-},
+    "inGameName": "Memento Mori"
+  },
   {
     "name": "Chest/Chest_ItemInfiniteAmmo.Chest_ItemInfiniteAmmo_C",
     "float": "0.20000000298023224",
-		"inGameName": "The Best Defense"
-},
-  {
-    "name": "Foot/Boots_ItemTramplingBoots.Boots_ItemTramplingBoots_C",
-    "float": "1.0",
-		"inGameName": "Tampling Boots"
-},
-  {
-    "name": "Chest/Chest_ItemTallShield.Chest_ItemTallShield_C",
-    "float": "0.20000000298023224",
-		"inGameName": "Svalinn"
-},
-  {
-    "name": "Head/Head_ItemMindFlay.Head_ItemMindFlay_C",
-    "float": "1.0",
-		"inGameName": "Selðr's Hat"
-},
-  {
-    "name": "Upgrades/BP_ItemSpeedUp.BP_ItemSpeedUp_C",
-    "float": "1.0",
-		"inGameName": "Speed Up"
-},
-  {
-    "name": "Chest/Chest_ItemBlankShield.Chest_ItemBlankShield_C",
-    "float": "0.20000000298023224",
-		"inGameName": "Masquerade"
-},
-  {
-    "name": "Arm/Arm_ItemSpeedUpArm.Arm_ItemSpeedUpArm_C",
-    "float": "1.0",
-		"inGameName": "Go Faster Glove"
-},
-  {
-    "name": "Arm/Arm_ItemGunFiresTwice.Arm_ItemGunFiresTwice_C",
-    "float": "1.0",
-		"inGameName": "Quaternote"
-},
-  {
-    "name": "Arm/Arm_HighAltitudeGloves.Arm_HighAltitudeGloves_C",
-    "float": "1.0",
-		"inGameName": "Spacewalker"
-},
-  {
-    "name": "Chest/Chest_ItemExtraFirebolts.Chest_ItemExtraFirebolts_C",
-    "float": "1.0",
-		"inGameName": "Richeous Sun"
-},
-  {
-    "name": "Foot/Boots_ItemSpeedBoots.Boots_ItemSpeedBoots_C",
-    "float": "1.0",
-		"inGameName": "Odin's Sneakers"
-},
-  {
-    "name": "Head/Head_ItemCriticalMultiplier.Head_ItemCriticalMultiplier_C",
-    "float": "1.0",
-		"inGameName": "Helm of Precision"
-},
-  {
-    "name": "Arm/Arm_ItemDoubleHealingEffects.Arm_ItemDoubleHealingEffects_C",
-    "float": "1.0",
-		"inGameName": "Gunnr's Bracer"
-},
-  {
-    "name": "Arm/Arm_DwemerRing.Arm_DwemerRing_C",
-    "float": "1.2000000476837158",
-		"inGameName": "Dwarven Ring"
-},
-  {
-    "name": "Foot/Boots_ItemHopliteGreaves.Boots_ItemHopliteGreaves_C",
-    "float": "1.0",
-		"inGameName": "Hermod's Greaves"
-},
-  {
-    "name": "Chest/Chest_ItemCriticalChance.Chest_ItemCriticalChance_C",
-    "float": "1.0",
-		"inGameName": "Berserker's Arm"
-},
-  {
-    "name": "Head/Head_ItemEchoShot.Head_ItemEchoShot_C",
-    "float": "1.0",
-		"inGameName": "Ymir's Crown"
-},
-  {
-    "name": "Head/Head_ItemVampHealth.Head_ItemVampHealth_C",
-    "float": "1.0",
-		"inGameName": "Circlet of the Serpentine"
-},
-  {
-    "name": "Upgrades/BP_ItemConvertShieldsToHealth.BP_ItemConvertShieldsToHealth_C",
-    "float": "1.0",
-		"inGameName": "Shield Converter"
-},
-  {
-    "name": "Chest/Chest_ItemDoubleDamage.Chest_ItemDoubleDamage_C",
-    "float": "0.4000000059604645",
-		"inGameName": "Face of Death"
-},
-  {
-    "name": "Chest/Chest_ItemLightningCleave.Chest_ItemLightningCleave_C",
-    "float": "1.0",
-		"inGameName": "Storm"
-},
-  {
-    "name": "Foot/Boots_ItemJumpBoots.Boots_ItemJumpBoots_C",
-    "float": "1.0",
-		"inGameName": "Angelic Boots"
-},
-  {
-    "name": "Head/Head_ItemOpeningChord.Head_ItemOpeningChord_C",
-    "float": "1.0",
-		"inGameName": "The Secret Chord"
-},
-  {
-    "name": "Chest/Chest_ItemRevive.Chest_ItemRevive_C",
-    "float": "1.0",
-		"inGameName": "Lion Heart"
-},
-  {
-    "name": "Foot/Boots_ItemCriticalsAddDOT.Boots_ItemCriticalsAddDOT_C",
-    "float": "1.0",
-		"inGameName": "Seiðr's Blessing"
-},
-  {
-    "name": "Arm/Arm_ItemWallPenetration.Arm_ItemWallPenetration_C",
-    "float": "1.0",
-		"inGameName": "Powershot Glove"
-},
-  {
-    "name": "Arm/Arm_ItemPureGoodness.Arm_ItemPureGoodness_C",
-    "float": "1.0",
-		"inGameName": "Midgard Bracelet"
-},
-  {
-    "name": "Upgrades/BP_ItemRangeUp.BP_ItemRangeUp_C",
-    "float": "1.0",
-		"inGameName": "Range Up"
-},
-  {
-    "name": "Upgrades/BP_ItemLuckyDice.BP_ItemLuckyDice_C",
-    "float": "1.0",
-		"inGameName": "Lucky Dice"
-},
-  {
-    "name": "Head/Head_ItemFullRoman.Head_ItemFullRoman_C",
-    "float": "1.0",
-		"inGameName": "Short Horned"
-},
-  {
-    "name": "Chest/Chest_ItemArmourBreastplate.Chest_ItemArmourBreastplate_C",
-    "float": "1.0",
-		"inGameName": "Skjaldmeyjar's Plate"
-},
-  {
-    "name": "Foot/Boots_ItemPercentageDamageOnShot.Boots_ItemPercentageDamageOnShot_C",
-    "float": "1.0",
-		"inGameName": "Giant Slayer Boots"
-},
-  {
-    "name": "Foot/Boots_ItemCreepBoots.Boots_ItemCreepBoots_C",
-    "float": "1.0",
-		"inGameName": "Poison Boots"
-},
-  {
-    "name": "Foot/Boots_GoldenGreaves.Boots_GoldenGreaves_C",
-    "float": "0.10000000149011612",
-		"inGameName": ""
-},
-  {
-    "name": "Chest/Chest_ItemCooldownReduction.Chest_ItemCooldownReduction_C",
-    "float": "0.10000000149011612",
-		"inGameName": "Battle Lion Shield"
-},
-  {
-    "name": "Arm/Arm_RevealMap.Arm_RevealMap_C",
-    "float": "1.0",
-		"inGameName": "Dwarven Braclet"
-},
-  {
-    "name": "Upgrades/BP_ItemDamageUp.BP_ItemDamageUp_C",
-    "float": "1.0",
-		"inGameName": "Damage Up"
-},
-  {
-    "name": "Upgrades/BP_ItemAbilityPowerUp.BP_ItemAbilityPowerUp_C",
-    "float": "1.0",
-		"inGameName": "Ability Up"
-},
-  {
-    "name": "Chest/Chest_ItemRangeDouble.Chest_ItemRangeDouble_C",
-    "float": "0.20000000298023224",
-		"inGameName": "Gungnir's Partner"
-},
-  {
-    "name": "Foot/Boots_ItemHeavyMetalBoots.Boots_ItemHeavyMetalBoots_C",
-    "float": "1.0",
-		"inGameName": "Boots of Rock"
-},
-  {
-    "name": "Arm/Arm_ItemSlowEnemies.Arm_ItemSlowEnemies_C",
-    "float": "1.0",
-		"inGameName": "Asp's Whisper"
-},
-  {
-    "name": "Upgrades/BP_ClipUp.BP_ClipUp_C",
-    "float": "1.0",
-		"inGameName": "Clip Up"
-},
-  {
-    "name": "Upgrades/BP_ItemHeartContainer.BP_ItemHeartContainer_C",
-    "float": "1.0",
-		"inGameName": "Heart Container"
-},
-  {
-    "name": "Arm/Arm_Quickloader.Arm_Quickloader_C",
-    "float": "0.5",
-		"inGameName": "Six-shooter"
-},
-  {
-    "name": "Chest/Chest_ItemSlowProjectileShield.Chest_ItemSlowProjectileShield_C",
-    "float": "0.20000000298023224",
-		"inGameName": "Loki's Shield"
-},
-  {
-    "name": "Head/Head_ItemSwapAbilities.Head_ItemSwapAbilities_C",
-    "float": "1.0",
-		"inGameName": "Adventurer's Fedora"
-},
-  {
-    "name": "Head/Head_ItemAttatchExplosives.Head_ItemAttatchExplosives_C",
-    "float": "0.800000011920929",
-		"inGameName": "Hat of Madness"
-},
-  {
-    "name": "Foot/Boots_ItemStrafeBoots.Boots_ItemStrafeBoots_C",
-    "float": "1.0",
-		"inGameName": "Skates of Strafe"
-},
-  {
-    "name": "Arm/Arm_ItemEnemiesRainGold.Arm_ItemEnemiesRainGold_C",
-    "float": "1.0",
-		"inGameName": "Golden Bracelet"
-},
-  {
-    "name": "Head/Head_ItemHeadSpeed.Head_ItemHeadSpeed_C",
-    "float": "1.0",
-		"inGameName": "Hermóðr the Messenger"
-},
-  {
-    "name": "Head/Head_ItemFullHorns.Head_ItemFullHorns_C",
-    "float": "0.4000000059604645",
-		"inGameName": ""
-},
-  {
-    "name": "Head/Head_ItemFluffy.Head_ItemFluffy_C",
-    "float": "0.4000000059604645",
-		"inGameName": "Fluffy"
-},
-  {
-    "name": "Arm/Arm_ItemConsumeSlotToGetStatBoost.Arm_ItemConsumeSlotToGetStatBoost_C",
-    "float": "1.0",
-		"inGameName": "Loki's Bargain"
-},
-  {
-    "name": "Chest/Chest_ItemRegeneratingBreastPlate.Chest_ItemRegeneratingBreastPlate_C",
-    "float": "0.6000000238418579",
-		"inGameName": "Dragon's Skin"
-},
-  {
-    "name": "Foot/Boots_ItemClogsWooden.Boots_ItemClogsWooden_C",
-    "float": "0.10000000149011612",
-		"inGameName": "Aslög's Clogs"
-},
-  {
-    "name": "Head/Head_ItemRageMutliplier.Head_ItemRageMutliplier_C",
-    "float": "1.0",
-		"inGameName": "Helm of Rage"
-},
-  {
-    "name": "Upgrades/BP_ItemLuckUp.BP_ItemLuckUp_C",
-    "float": "1.0",
-		"inGameName": "Luck Up"
-},
-  {
-    "name": "Head/Head_ItemOrc.Head_ItemOrc_C",
-    "float": "0.20000000298023224",
-		"inGameName": ""
-},
+    "inGameName": "The Best Defense"
+  },
   {
     "name": "Arm/Arm_EagleEye.Arm_EagleEye_C",
     "float": "0.20000000298023224",
-		"inGameName": ""
-},
+    "inGameName": "Raven God"
+  },
+  {
+    "name": "Foot/Boots_ItemTramplingBoots.Boots_ItemTramplingBoots_C",
+    "float": "1.0",
+    "inGameName": "Tampling Boots"
+  },
+  {
+    "name": "Chest/Chest_ItemTallShield.Chest_ItemTallShield_C",
+    "float": "0.20000000298023224",
+    "inGameName": "Svalinn"
+  },
+  {
+    "name": "Head/Head_ItemMindFlay.Head_ItemMindFlay_C",
+    "float": "1.0",
+    "inGameName": "Selðr's Hat"
+  },
+  {
+    "name": "Upgrades/BP_ItemSpeedUp.BP_ItemSpeedUp_C",
+    "float": "1.0",
+    "inGameName": "Speed Up"
+  },
+  {
+    "name": "Chest/Chest_ItemBlankShield.Chest_ItemBlankShield_C",
+    "float": "0.20000000298023224",
+    "inGameName": "Masquerade"
+  },
+  {
+    "name": "Arm/Arm_ItemSpeedUpArm.Arm_ItemSpeedUpArm_C",
+    "float": "1.0",
+    "inGameName": "Go Faster Glove"
+  },
+  {
+    "name": "Arm/Arm_ItemGunFiresTwice.Arm_ItemGunFiresTwice_C",
+    "float": "1.0",
+    "inGameName": "Quaternote"
+  },
+  {
+    "name": "Arm/Arm_HighAltitudeGloves.Arm_HighAltitudeGloves_C",
+    "float": "1.0",
+    "inGameName": "Spacewalker"
+  },
+  {
+    "name": "Chest/Chest_ItemExtraFirebolts.Chest_ItemExtraFirebolts_C",
+    "float": "1.0",
+    "inGameName": "Richeous Sun"
+  },
+  {
+    "name": "Foot/Boots_ItemSpeedBoots.Boots_ItemSpeedBoots_C",
+    "float": "1.0",
+    "inGameName": "Odin's Sneakers"
+  },
+  {
+    "name": "Head/Head_ItemCriticalMultiplier.Head_ItemCriticalMultiplier_C",
+    "float": "1.0",
+    "inGameName": "Helm of Precision"
+  },
+  {
+    "name": "Arm/Arm_ItemDoubleHealingEffects.Arm_ItemDoubleHealingEffects_C",
+    "float": "1.0",
+    "inGameName": "Gunnr's Bracer"
+  },
+  {
+    "name": "Arm/Arm_DwemerRing.Arm_DwemerRing_C",
+    "float": "1.2000000476837158",
+    "inGameName": "Dwarven Ring"
+  },
+  {
+    "name": "Foot/Boots_ItemHopliteGreaves.Boots_ItemHopliteGreaves_C",
+    "float": "1.0",
+    "inGameName": "Hermod's Greaves"
+  },
+  {
+    "name": "Chest/Chest_ItemCriticalChance.Chest_ItemCriticalChance_C",
+    "float": "1.0",
+    "inGameName": "Berserker's Arm"
+  },
+  {
+    "name": "Head/Head_ItemEchoShot.Head_ItemEchoShot_C",
+    "float": "1.0",
+    "inGameName": "Ymir's Crown"
+  },
+  {
+    "name": "Head/Head_ItemVampHealth.Head_ItemVampHealth_C",
+    "float": "1.0",
+    "inGameName": "Circlet of the Serpentine"
+  },
+  {
+    "name": "Upgrades/BP_ItemConvertShieldsToHealth.BP_ItemConvertShieldsToHealth_C",
+    "float": "1.0",
+    "inGameName": "Shield Converter"
+  },
+  {
+    "name": "Chest/Chest_ItemDoubleDamage.Chest_ItemDoubleDamage_C",
+    "float": "0.4000000059604645",
+    "inGameName": "Face of Death"
+  },
+  {
+    "name": "Chest/Chest_ItemLightningCleave.Chest_ItemLightningCleave_C",
+    "float": "1.0",
+    "inGameName": "Storm"
+  },
+  {
+    "name": "Foot/Boots_ItemJumpBoots.Boots_ItemJumpBoots_C",
+    "float": "1.0",
+    "inGameName": "Angelic Boots"
+  },
+  {
+    "name": "Head/Head_ItemOpeningChord.Head_ItemOpeningChord_C",
+    "float": "1.0",
+    "inGameName": "The Secret Chord"
+  },
+  {
+    "name": "Chest/Chest_ItemRevive.Chest_ItemRevive_C",
+    "float": "1.0",
+    "inGameName": "Lion Heart"
+  },
+  {
+    "name": "Foot/Boots_ItemCriticalsAddDOT.Boots_ItemCriticalsAddDOT_C",
+    "float": "1.0",
+    "inGameName": "Spurs of Justice"
+  },
+  {
+    "name": "Arm/Arm_ItemWallPenetration.Arm_ItemWallPenetration_C",
+    "float": "1.0",
+    "inGameName": "Powershot Glove"
+  },
+  {
+    "name": "Arm/Arm_ItemPureGoodness.Arm_ItemPureGoodness_C",
+    "float": "1.0",
+    "inGameName": "Midgard Bracelet"
+  },
+  {
+    "name": "Upgrades/BP_ItemRangeUp.BP_ItemRangeUp_C",
+    "float": "1.0",
+    "inGameName": "Range Up"
+  },
+  {
+    "name": "Upgrades/BP_ItemLuckyDice.BP_ItemLuckyDice_C",
+    "float": "1.0",
+    "inGameName": "Lucky Dice"
+  },
+  {
+    "name": "Head/Head_ItemFullRoman.Head_ItemFullRoman_C",
+    "float": "1.0",
+    "inGameName": "Short Horned"
+  },
+  {
+    "name": "Chest/Chest_ItemArmourBreastplate.Chest_ItemArmourBreastplate_C",
+    "float": "1.0",
+    "inGameName": "Skjaldmeyjar's Plate"
+  },
+  {
+    "name": "Foot/Boots_ItemPercentageDamageOnShot.Boots_ItemPercentageDamageOnShot_C",
+    "float": "1.0",
+    "inGameName": "Giant Slayer Boots"
+  },
+  {
+    "name": "Foot/Boots_ItemCreepBoots.Boots_ItemCreepBoots_C",
+    "float": "1.0",
+    "inGameName": "Poison Boots"
+  },
+  {
+    "name": "Foot/Boots_GoldenGreaves.Boots_GoldenGreaves_C",
+    "float": "0.10000000149011612",
+    "inGameName": "Njord's Greaves"
+  },
+  {
+    "name": "Chest/Chest_ItemCooldownReduction.Chest_ItemCooldownReduction_C",
+    "float": "0.10000000149011612",
+    "inGameName": "Battle Lion Shield"
+  },
+  {
+    "name": "Arm/Arm_RevealMap.Arm_RevealMap_C",
+    "float": "1.0",
+    "inGameName": "Dwarven Braclet"
+  },
+  {
+    "name": "Upgrades/BP_ItemDamageUp.BP_ItemDamageUp_C",
+    "float": "1.0",
+    "inGameName": "Damage Up"
+  },
+  {
+    "name": "Upgrades/BP_ItemAbilityPowerUp.BP_ItemAbilityPowerUp_C",
+    "float": "1.0",
+    "inGameName": "Ability Up"
+  },
+  {
+    "name": "Chest/Chest_ItemRangeDouble.Chest_ItemRangeDouble_C",
+    "float": "0.20000000298023224",
+    "inGameName": "Gungnir's Partner"
+  },
+  {
+    "name": "Foot/Boots_ItemHeavyMetalBoots.Boots_ItemHeavyMetalBoots_C",
+    "float": "1.0",
+    "inGameName": "Boots of Rock"
+  },
+  {
+    "name": "Arm/Arm_ItemSlowEnemies.Arm_ItemSlowEnemies_C",
+    "float": "1.0",
+    "inGameName": "Asp's Whisper"
+  },
+  {
+    "name": "Upgrades/BP_ClipUp.BP_ClipUp_C",
+    "float": "1.0",
+    "inGameName": "Clip Up"
+  },
+  {
+    "name": "Upgrades/BP_ItemHeartContainer.BP_ItemHeartContainer_C",
+    "float": "1.0",
+    "inGameName": "Heart Container"
+  },
+  {
+    "name": "Arm/Arm_Quickloader.Arm_Quickloader_C",
+    "float": "0.5",
+    "inGameName": "Six-shooter"
+  },
+  {
+    "name": "Chest/Chest_ItemSlowProjectileShield.Chest_ItemSlowProjectileShield_C",
+    "float": "0.20000000298023224",
+    "inGameName": "Loki's Shield"
+  },
+  {
+    "name": "Head/Head_ItemSwapAbilities.Head_ItemSwapAbilities_C",
+    "float": "1.0",
+    "inGameName": "Adventurer's Fedora"
+  },
+  {
+    "name": "Head/Head_ItemAttatchExplosives.Head_ItemAttatchExplosives_C",
+    "float": "0.800000011920929",
+    "inGameName": "Hat of Madness"
+  },
+  {
+    "name": "Foot/Boots_ItemStrafeBoots.Boots_ItemStrafeBoots_C",
+    "float": "1.0",
+    "inGameName": "Skates of Strafe"
+  },
+  {
+    "name": "Arm/Arm_ItemEnemiesRainGold.Arm_ItemEnemiesRainGold_C",
+    "float": "1.0",
+    "inGameName": "Golden Bracelet"
+  },
+  {
+    "name": "Head/Head_ItemHeadSpeed.Head_ItemHeadSpeed_C",
+    "float": "1.0",
+    "inGameName": "Hermóðr the Messenger"
+  },
+  {
+    "name": "Head/Head_ItemFullHorns.Head_ItemFullHorns_C",
+    "float": "0.4000000059604645",
+    "inGameName": "Helm-heim"
+  },
+  {
+    "name": "Head/Head_ItemFluffy.Head_ItemFluffy_C",
+    "float": "0.4000000059604645",
+    "inGameName": "Fluffy"
+  },
+  {
+    "name": "Arm/Arm_ItemConsumeSlotToGetStatBoost.Arm_ItemConsumeSlotToGetStatBoost_C",
+    "float": "1.0",
+    "inGameName": "Loki's Bargain"
+  },
+  {
+    "name": "Chest/Chest_ItemRegeneratingBreastPlate.Chest_ItemRegeneratingBreastPlate_C",
+    "float": "0.6000000238418579",
+    "inGameName": "Dragon's Skin"
+  },
+  {
+    "name": "Foot/Boots_ItemClogsWooden.Boots_ItemClogsWooden_C",
+    "float": "0.10000000149011612",
+    "inGameName": "Aslög's Clogs"
+  },
+  {
+    "name": "Head/Head_ItemRageMutliplier.Head_ItemRageMutliplier_C",
+    "float": "1.0",
+    "inGameName": "Helm of Rage"
+  },
+  {
+    "name": "Upgrades/BP_ItemLuckUp.BP_ItemLuckUp_C",
+    "float": "1.0",
+    "inGameName": "Luck Up"
+  },
+  {
+    "name": "Head/Head_ItemOrc.Head_ItemOrc_C",
+    "float": "0.20000000298023224",
+    "inGameName": "Ogre's Helm"
+  },
   {
     "name": "Foot/Boots_ItemRandomDamageOnBeat.Boots_ItemRandomDamageOnBeat_C",
     "float": "0.15000000596046448",
-		"inGameName": "Seiðr's Blessing"
-},
+    "inGameName": "Rhythmic Chaos Boots"
+  },
   {
     "name": "Foot/Boots_ItemEnchantedGreaves.Boots_ItemEnchantedGreaves_C",
     "float": "0.20000000298023224",
-		"inGameName": ""
-},
+    "inGameName": "Seiðr's Blessing"
+  },
   {
     "name": "Chest/Chest_ItemCursedIron.Chest_ItemCursedIron_C",
     "float": "0.20000000298023224",
-		"inGameName": "Cursed Metal"
-},
+    "inGameName": "Cursed Metal"
+  },
   {
     "name": "Chest/Chest_ItemJumpStrength.Chest_ItemJumpStrength_C",
     "float": "0.20000000298023224",
-		"inGameName": "Springhel"
-},
+    "inGameName": "Springhel"
+  },
   {
     "name": "Chest/Chest_ItemMagicFortify.Chest_ItemMagicFortify_C",
     "float": "0.20000000298023224",
-		"inGameName": "Triquetra"
-}
+    "inGameName": "Triquetra"
+  }
 ]
